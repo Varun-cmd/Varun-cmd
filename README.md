@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **v.varunkumar2002@gmail.com**
 
-- ⚡ Fun fact **When I'm not working you find me binging Netflix📺**
+- ⚡ Fun fact **When I'm not working you can find me binging Netflix📺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
