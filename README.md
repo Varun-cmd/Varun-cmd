@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-cmd" alt="varun-cmd" /></a> </p>
 
-- 🌱 I’m currently learning **CD/CI operations, Jenkins ,Docker & Kubernetics**
+- 🌱 I’m currently learning **CD/CI operations, Jenkins ,Docker & Kubernetes**
 
 - 💬 Ask me about **Technology, Web-Dev, Dev-Ops, Cloud Computing**
 
