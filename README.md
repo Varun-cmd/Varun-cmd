@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center">I'm a Computer Science Student from Rajalakshmi Engineering College.I'm passionate about coding, problem-solving and creating applications that makes people's lives easier.In my free time, I enjoy attending hackathons to network with other developers and hone my skills.Feel free to check out my profile, I'm always open to feedback and collaboration, so if you're working on something similar or have ideas for how we can work together, don't hesitate to reach out.</h3>
+<h3 align="center">I'm a Computer Science graduate from Rajalakshmi Engineering College.I'm passionate about coding, problem-solving and creating applications that makes people's lives easier.In my free time, I enjoy attending hackathons to network with other developers and hone my skills.Feel free to check out my profile, I'm always open to feedback and collaboration, so if you're working on something similar or have ideas for how we can work together, don't hesitate to reach out.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-cmd" alt="varun-cmd" /></a> </p>
 
